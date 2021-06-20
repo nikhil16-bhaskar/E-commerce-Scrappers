@@ -5,7 +5,7 @@
 ##### 2. Amazon
 ##### 3. Facebook
 ##### 4. Insta
-##### 5. Redit
+##### 5. Reddit
 ##### 6. Youtube
 ##### 7. Twitter
 
